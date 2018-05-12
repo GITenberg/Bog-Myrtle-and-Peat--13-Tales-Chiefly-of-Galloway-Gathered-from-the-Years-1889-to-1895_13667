@@ -1,0 +1,43 @@
+_repo: Bog-Myrtle-and-Peat--13-Tales-Chiefly-of-Galloway-Gathered-from-the-Years-1889-to-1895_13667
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+description: ''
+gutenberg_issued: '2004-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Dumfries and Galloway (Scotland) -- Fiction'
+- !lcc 'PR'
+tableOfContents: The minister of Dour -- A cry across the black water -- Saint Lucy
+  of the eyes -- Under the red terror -- The case of John Arniston's conscience --
+  The glistering beaches -- The last Anderson of Deeside -- A Scottish Sabbath day
+  -- The courtship of Tammock Thackanraip, Ayrshireman -- The old Tory -- The great
+  right-of-way case -- Dominie Grier -- The prodigal daughter -- Fenwick Major's little
+  'un -- Mac's enteric fever -- The colleging of Simeon Gleg -- Kit Kennedy, ne'er-do-weel
+  -- The back o' beyont --North to the Arctic -- Across the March dyke -- A finished
+  young lady -- The little lame angel -- The minister-emeritus -- A minister's day
+  -- The minister's loon -- The biography of an "inefficient" -- John -- Euroclydon
+  of the red head -- The Cairn Edward kirk militant -- Night in the Galloway woods
+  -- Birds at night -- The coming of the dawn -- Flood tide of night -- Way for the
+  sun -- The early bird -- Full chorus -- The butcher's boy of the woods -- The dust
+  of battle -- Comes the day.
+title: "Bog-Myrtle and Peat\r\nTales Chiefly of Galloway Gathered from the Years 1889\
+  \ to 1895"
+url: http://www.gutenberg.org/ebooks/13667
