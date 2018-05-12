@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13667#Bog-Myrtle-and-Peat--13-Tales-Chiefly-of-Galloway-Gathered-from-the-Years-1889-to-1895
 gutenberg_issued: '2004-10-07'
 gutenberg_type: Text
 identifiers:
